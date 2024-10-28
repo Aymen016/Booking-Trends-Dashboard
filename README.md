@@ -54,6 +54,8 @@ The final deliverable of this project is an interactive Power BI dashboard. The 
 1. **Desktop View**: Use the Power BI desktop application to open and explore the insights in the dashboard.
    
    ![Screenshot 2024-10-28 014940](https://github.com/user-attachments/assets/2713c701-1cd7-4011-94e9-9265c5592c8f)
+   
+![Screenshot 2024-10-29 012825](https://github.com/user-attachments/assets/8344f5eb-535d-48d3-9d6b-b73df63dce86)
 
 3. **Mobile View**: Access the mobile layout using Power BI mobile app for an optimized experience.
 
